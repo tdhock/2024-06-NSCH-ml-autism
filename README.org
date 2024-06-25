@@ -1,0 +1,11 @@
+Hi, Here is a folder with the combined 2016-2022 NSCH data file along
+with codebooks for each year. All the 95 values mean that the person
+was not asked the question (was ineligible/skipped). I recoded the 99
+values, which are true missing (person did not answer) to a "." value.
+
+I'm interested in how ML might be used with the autism_16, 17, 18, 19,
+20, 21, 22 variables as an output (2 and 3 values indicate the child
+ever had or currently has autism), asdage_16,17,18,19,20,21,222 as an
+output including dichotomizing to be < 3 (early dx) versus 3 or older,
+and asdbehtreat_16,17,18,19,20,21,22 (yes) as an output. Perhaps we
+can discuss more in June! Olivia
